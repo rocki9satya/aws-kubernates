@@ -1,1 +1,1 @@
-project = "space-invaders"
+project = "satya-cluster"
